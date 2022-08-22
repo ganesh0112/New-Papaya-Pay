@@ -1,0 +1,50 @@
+[INFO ] 2022-08-19 15:12:38.650 [main] Log - I am in onStart method TestRun
+[INFO ] 2022-08-19 15:13:08.088 [main] Log - In BrowserStack.................
+[INFO ] 2022-08-19 15:13:08.098 [main] Log - signUp test is starting.
+[INFO ] 2022-08-19 15:13:10.236 [main] Log - Clicked on Pay Bill.
+[INFO ] 2022-08-19 15:13:13.502 [main] Log - Clicked on Take Picture.
+[INFO ] 2022-08-19 15:13:16.561 [main] Log - Clicked on Cancel.
+[INFO ] 2022-08-19 15:13:20.322 [main] Log - Clicked on My Account.
+[INFO ] 2022-08-19 15:13:23.891 [main] Log - Provided valid email credential.
+[INFO ] 2022-08-19 15:13:26.990 [main] Log - Provided valid password credential.
+[INFO ] 2022-08-19 15:13:29.760 [main] Log - Provided valid password credential to confirm.
+[INFO ] 2022-08-19 15:13:31.902 [main] Log - Clicked on sign up button.
+[INFO ] 2022-08-19 15:13:31.903 [main] Log - signUp test is succeed.
+[INFO ] 2022-08-19 15:14:06.432 [main] Log - In BrowserStack.................
+[INFO ] 2022-08-19 15:14:06.439 [main] Log - logOut test is starting.
+[INFO ] 2022-08-19 15:14:07.842 [main] Log - Clicked on Pay Bill.
+[INFO ] 2022-08-19 15:14:11.552 [main] Log - Clicked on Take Picture.
+[INFO ] 2022-08-19 15:14:13.522 [main] Log - Clicked on Cancel.
+[INFO ] 2022-08-19 15:14:15.510 [main] Log - Clicked on My Account.
+[INFO ] 2022-08-19 15:14:17.076 [main] Log - Clicked on Have an account.
+[INFO ] 2022-08-19 15:14:20.794 [main] Log - Provided valid login credentials.
+[INFO ] 2022-08-19 15:14:21.836 [main] Log - Clicked on Sign in.
+[INFO ] 2022-08-19 15:14:27.330 [main] Log - Clicked on sign out.
+[INFO ] 2022-08-19 15:14:27.330 [main] Log - logOut test is succeed.
+[INFO ] 2022-08-19 15:14:30.059 [main] Log - I am in onFinish method TestRun
+[INFO ] 2022-08-19 15:33:07.165 [main] Log - I am in onStart method TestRun
+[INFO ] 2022-08-19 15:33:31.008 [main] Log - In BrowserStack.................
+[INFO ] 2022-08-19 15:33:31.008 [main] Log - logOut test is starting.
+[INFO ] 2022-08-19 15:33:32.792 [main] Log - Clicked on Pay Bill.
+[INFO ] 2022-08-19 15:33:35.837 [main] Log - Clicked on Take Picture.
+[INFO ] 2022-08-19 15:33:38.259 [main] Log - Clicked on Cancel.
+[INFO ] 2022-08-19 15:33:41.668 [main] Log - Clicked on My Account.
+[INFO ] 2022-08-19 15:33:44.052 [main] Log - Clicked on Have an account.
+[INFO ] 2022-08-19 15:33:48.968 [main] Log - Provided valid login credentials.
+[INFO ] 2022-08-19 15:33:50.701 [main] Log - Clicked on Sign in.
+[INFO ] 2022-08-19 15:33:56.567 [main] Log - Clicked on sign out.
+[INFO ] 2022-08-19 15:33:56.568 [main] Log - logOut test is succeed.
+[INFO ] 2022-08-19 15:33:59.631 [main] Log - I am in onFinish method TestRun
+[INFO ] 2022-08-19 16:05:28.338 [main] Log - I am in onStart method TestRun
+[INFO ] 2022-08-19 16:05:53.786 [main] Log - In BrowserStack.................
+[INFO ] 2022-08-19 16:05:53.786 [main] Log - logOut test is starting.
+[INFO ] 2022-08-19 16:05:54.360 [main] Log - Clicked on Pay Bill.
+[INFO ] 2022-08-19 16:05:57.543 [main] Log - Clicked on Take Picture.
+[INFO ] 2022-08-19 16:05:58.966 [main] Log - Clicked on Cancel.
+[INFO ] 2022-08-19 16:06:01.565 [main] Log - Clicked on My Account.
+[INFO ] 2022-08-19 16:06:02.812 [main] Log - Clicked on Have an account.
+[INFO ] 2022-08-19 16:06:05.392 [main] Log - Provided valid login credentials.
+[INFO ] 2022-08-19 16:06:06.346 [main] Log - Clicked on Sign in.
+[INFO ] 2022-08-19 16:06:11.236 [main] Log - Clicked on sign out.
+[INFO ] 2022-08-19 16:06:11.237 [main] Log - logOut test is succeed.
+[INFO ] 2022-08-19 16:06:12.074 [main] Log - I am in onFinish method TestRun
