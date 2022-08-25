@@ -217,35 +217,35 @@ public class CaptureBillScreenTest extends BasePage {
 //         pgObj.clickContnBTN();
 //     }
 
-//     @Test (priority = 10)
-//     public void logOut (Method method) {
-//         startTest(method.getName(), "This test is for log out.");
+    @Test (priority = 10)
+    public void logOut (Method method) {
+        startTest(method.getName(), "This test is for log out.");
 
-//         pgObj.clickPayBillBTN();
-//         pgObj.clickTakePictBTN();
-//         pgObj.clickCancalBTN();
-//         pgObj.clickMyAcctBTN();
-//         pgObj.clickHaveAnAcctBTN();
-//         pgObj.LogInDetail();
-//         pgObj.clickSignInBTN();
-//         pgObj.clickSignOutBTN();
+        pgObj.clickPayBillBTN();
+        pgObj.clickTakePictBTN();
+        pgObj.clickCancalBTN();
+        pgObj.clickMyAcctBTN();
+        pgObj.clickHaveAnAcctBTN();
+        pgObj.LogInDetail();
+        pgObj.clickSignInBTN();
+        pgObj.clickSignOutBTN();
 
-//     }
+    }
 
-//     @Test (priority = 11)
-//     public void failTest (Method method) {
-//         startTest(method.getName(), "This test is for log out.");
+    @Test (priority = 11)
+    public void failTest (Method method) {
+        startTest(method.getName(), "This test is for log out.");
 
-//         pgObj.clickPayBillBTN();
-//         pgObj.clickTakePictBTN();
-//         pgObj.clickCancalBTN();
-//         pgObj.clickMyAcctBTN();
-//         pgObj.clickHaveAnAcctBTN();
-//         pgObj.invalidLogInDetail();
-//         pgObj.clickSignInBTN();
-//         pgObj.clickSignOutBTN();
+        pgObj.clickPayBillBTN();
+        pgObj.clickTakePictBTN();
+        pgObj.clickCancalBTN();
+        pgObj.clickMyAcctBTN();
+        pgObj.clickHaveAnAcctBTN();
+        pgObj.invalidLogInDetail();
+        pgObj.clickSignInBTN();
+        pgObj.clickSignOutBTN();
 
-//     }
+    }
 
     @AfterMethod
     public void tearDown() {
