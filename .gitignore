@@ -1,0 +1,15 @@
+# Don't track content of these folders
+target/
+.idea/
+.settings/
+report/
+.classpath
+.project
+ .metadata/
+application.log
+src/test/resources/config_properties/config.properties
+BPASolutions.iml
+application.log.*
+BPASPFx.log
+
+
